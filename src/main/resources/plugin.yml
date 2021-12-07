@@ -1,0 +1,10 @@
+name: DiceRollPlugin
+version: ${project.version}
+main: me.nilsschnitzel.dicerollplugin.DiceRollPlugin
+api-version: 1.16
+authors: [ NilsSchnitzel ]
+description: A plugin to roll dice
+commands:
+  roll:
+    description: A way to roll a dice
+    usage: /<command>
